@@ -31,5 +31,4 @@ Overall, an expense tracker app promotes financial discipline, helps users make 
 
 ## Tools Used:
 1. Dart (Flutter)
-## 
 2. Visual Studio Code
