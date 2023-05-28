@@ -25,4 +25,10 @@ By maintaining organized expense records, users can streamline the process of ta
 ## 7. Syncing and Integration: 
 Many expense tracker apps sync with bank accounts and credit cards, automatically importing transactions. They may also integrate with other financial tools or services for seamless management of finances.
 
+
+
 Overall, an expense tracker app promotes financial discipline, helps users make informed spending decisions, and supports their long-term financial goals.
+
+## Tools Used:
+Dart (Flutter)
+Visual Studio Code
